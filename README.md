@@ -32,3 +32,7 @@ The project is set up to use `postcss-cli` to process your CSS files. You can ad
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+
+
+#**For more detail connect with me on LinkedIn**
+https://www.linkedin.com/in/jeevan-kumar-sah-497a2614a/
