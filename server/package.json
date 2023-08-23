@@ -10,7 +10,7 @@
 	"keywords": [
 		"studynotion-backend"
 	],
-	"author": "Shreyansh Shukla",
+	"author": "Jeevan Kumar Sah",
 	"license": "ISC",
 	"dependencies": {
 		"bcrypt": "^5.1.0",
